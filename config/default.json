@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://oneiro123:oneiro123@cluster0-kjnkk.mongodb.net/test?retryWrites=true",
-  "jwtSecret": "devconnectorsecret"
+  "jwtSecret": "devconnectorsecret",
+  "githubClientId": "1af7a8269713ba663117",
+  "githubSecret": "a0a853015f46a991940a9c15d8f9203799e30698"
 }
